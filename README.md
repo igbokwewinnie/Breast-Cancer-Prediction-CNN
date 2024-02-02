@@ -15,7 +15,7 @@ This project aims to develop an End-End Convolutional Neural Network (CNN) model
 # PROJECT FOLDERS AND FILES EXPLAINED
 TEST IMAGES: contain sample of images that can be used to test our streamlit web app
 
-APP/TRAINED_MODELS: contain our model. you can download from this link:
+APP/TRAINED_MODELS: contain our model. you can download from this link: https://drive.google.com/file/d/1-Sz_JAPexjM_SH4jJb5QrnqAQ_tITuuw/view?usp=drive_link
 
 APP/DOCERFILE: This contains all the command  or instruction in order to build the Docker image
 
